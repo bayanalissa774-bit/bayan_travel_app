@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "500493490859",
+    "project_id": "bayan-travel-app-2026",
+    "storage_bucket": "bayan-travel-app-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500493490859:android:8e9e1d91cc4aa1756135ee",
+        "android_client_info": {
+          "package_name": "com.example.bayan_travel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD06T6maX0-KQ4rDNtkBPwmRk9cItkZ5k4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
